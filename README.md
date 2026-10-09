@@ -1,13 +1,17 @@
 <h1 align="center">Hi, I'm Kartik 👋</h1>
 
 <p align="center">
-  <b>Security-focused software engineer</b> — threat detection, malware analysis & security automation.
+  <b>Graduate SOC Analyst</b> · Master of Cybersecurity (La Trobe, WAM 77.5) · Melbourne
+</p>
+
+<p align="center">
+  🟢 <b>Open to junior SOC analyst / security operations roles in Melbourne</b> · Australian citizen, clearance eligible
 </p>
 
 <p align="center">
   <a href="https://kartik0219.github.io/">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/kartikp19">💼 LinkedIn</a> ·
-  <a href="mailto:kartikp200219@gmail.com">✉️ Email</a>
+  <a href="mailto:Kartikp.work@gmail.com">✉️ Email</a>
 </p>
 
 ---
@@ -16,6 +20,17 @@ I build security tools that make threat detection, incident response, and malwar
 analysis more accessible — clean, well-tested, and genuinely deployable, not
 proofs of concept. Lately I've been pairing classic detection techniques with
 LLM-assisted analysis.
+
+### 🎓 Recent work (Master's, 2026)
+
+- **Backend & Security Lead, industry project** (Learning Journey Assistant): 142 of 175 commits, Fernet
+  field-level PII encryption with HMAC-SHA256 blind indexing, consent gating, append-only audit log,
+  threat model and CVE register; deployed live with **188 tests at 90% coverage**
+- **Penetration testing lab:** staged recon (Nmap, enum4linux), vulnerability assessment (Nessus) and
+  exploitation (Metasploit) of an isolated lab environment
+- **Digital forensics:** forensically sound acquisition (FTK Imager, E01, hashing, chain of custody),
+  hand-decoded MBR / NTFS `$MFT` records plus a Python decoder, Magnet AXIOM investigation
+- **Research:** how reliable are AI phishing detectors against AI-written phishing?
 
 ### 🛡️ Featured project — [malscan](https://github.com/Kartik0219/malscan)
 
@@ -45,7 +60,8 @@ project I use to learn how real antivirus works, end to end.
 ### 🧰 Skills
 
 `Python` · `Threat Detection` · `Malware Analysis` · `YARA` · `PCAP Analysis` ·
-`SIEM / Log Analysis` · `Vulnerability Research` · `FastAPI` · `Flask` ·
+`SIEM / Log Analysis` · `Incident Response` · `Digital Forensics` ·
+`Penetration Testing` · `Kali` · `Nmap` · `Metasploit` · `Wireshark` · `Vulnerability Research` · `FastAPI` · `Flask` ·
 `asyncio` · `SQLite` · `Security Automation` · `LLM Integration`
 
 <p align="center"><sub>Always building. Check out the <a href="https://kartik0219.github.io/">portfolio</a> for the full story.</sub></p>
